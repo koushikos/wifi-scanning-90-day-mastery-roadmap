@@ -14,6 +14,7 @@ A complete beginner-to-advanced 90-day structured roadmap for mastering Wi-Fi sc
 
 ## Table of Contents
 
+=
 1. [Introduction](#introduction)
 2. [How to Use This Roadmap](#how-to-use-this-roadmap)
 3. [Prerequisites](#prerequisites)
