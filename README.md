@@ -10,7 +10,7 @@ A complete beginner-to-advanced 90-day structured roadmap for mastering Wi-Fi sc
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-Student-green?style=for-the-badge&logo=shield)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-red?style=for-the-badge&logo=graph)
 
----
+---  
   
 ## Table of Contents
 
